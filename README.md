@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @utkarshsharma7
 - 👀 I’m interested in eat sleep code
 - 🌱 I’m currently learning web development and designing
-- 💞️ I’m looking to collaborate on becoming too rich and busy
 - 📫 Reach me ussharma7696@gmail.com
 
 <!---
