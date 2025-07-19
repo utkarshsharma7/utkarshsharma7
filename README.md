@@ -67,15 +67,10 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">My name is Utkarsh Sharma and I'm a bugs creator, from .New Delhi</p>
-
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨📚 I'm currently learning to make a bug free code<br>🎯 Goals: To become a programmer who can change bugs to features<br>🎲 Fun fact: I code to release dopamine <br> 📫 Reach me utkarsh.sharma7696@gmail.com</p>
+<p align="left">🎲 Fun fact: I code to release dopamine <br> 📫 Reach me utkarsh.sharma7696@gmail.com</p>
 
 ###
 
